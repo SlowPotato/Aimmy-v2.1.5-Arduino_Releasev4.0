@@ -33,6 +33,8 @@ DOWNLOAD:
 ---
 Found here: https://drive.google.com/file/d/1AFlfR-jMat8cHeF-BKt679vFSWuXHfWs/view?usp=sharing
 
+If any reason you cant access my GDrive message me in discord @ MentalEngineer#4729
+
 KNOWN UNSUPPORTED MOUSES:
 --
 Logitech G300s
