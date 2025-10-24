@@ -38,3 +38,4 @@ If any reason you cant access my GDrive message me in discord @ MentalEngineer#4
 KNOWN UNSUPPORTED MOUSES:
 --
 Logitech G300s
+Logitech Hero 502
