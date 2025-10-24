@@ -33,7 +33,7 @@ DOWNLOAD:
 ---
 Found here: https://drive.google.com/file/d/1AFlfR-jMat8cHeF-BKt679vFSWuXHfWs/view?usp=sharing
 
-If any reason you cant access my GDrive message me in discord @ MentalEngineer#4729
+If any reason you cant access my GDrive message me in discord @ MentalEngineer#4729, if you're already on the known discord then just DM me.
 
 KNOWN UNSUPPORTED MOUSES:
 --
