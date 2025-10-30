@@ -1,4 +1,4 @@
-# Aimmy-v2.1.5-Arduino_Releasev4.0
+# Aimmy-v2.1.5-Arduino_Releasev4.0 (Razer mouse recommended)
 <img width="359" height="242" alt="Boards Setup" src="https://github.com/user-attachments/assets/e8e3c285-cd22-45d0-9870-069185f7511f" />
 
 ![Visual](https://github.com/user-attachments/assets/3ed96842-58d4-4eee-a451-3fbc1d08ee62)
