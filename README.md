@@ -39,7 +39,11 @@ If any reason you cant access my GDrive message me in discord @ MentalEngineer#4
 WIN11 USERs getting "wmic" error
 -
 Do the following command in Powershell as Admin
-command: Add-WindowsCapability -online -name WMIC. Then re-run .bat as Admin.
+command: Add-WindowsCapability -online -name WMIC
+
+Then re-run .bat as Admin.
+
+If still fails run this command: dism /online /add-capability /capabilityname:WMIC~~~~
 
 KNOWN UNSUPPORTED MOUSES:
 --
