@@ -45,7 +45,6 @@ Found here: https://drive.google.com/file/d/1AFlfR-jMat8cHeF-BKt679vFSWuXHfWs/vi
 
 If any reason you cant access my GDrive message me in discord @ MentalEngineer#4729, if you're already on the known discord then just DM me.
 
--
 WIN11 USERs getting "wmic" error
 -
 Do the following command in Powershell as Admin
