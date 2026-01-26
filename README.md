@@ -29,11 +29,22 @@ Connection points as shown after soldering.
 
 <img width="464" height="327" alt="Solder points" src="https://github.com/user-attachments/assets/9581888c-fb79-43a3-ae7d-1fa8fb3a06b1" />
 
-Now you're ready to program the board. Plug micro usb cable to power the Leonardo R3 and proceed with the video guide below.
+Now you're ready to program the board. Plug micro usb cable to power the Leonardo R3 and proceed.
 
 ---
 Guide
 ---
+1. Install Arduino IDE 1.8.19
+Download: https://downloads.arduino.cc/arduino-1.8.19-windows.exe
+2. In the IDE go to Tools → Manage Libraries
+3. Install:
+   
+   • HID-Project by NicoHood,
+   • USB Host Shield 2.0,
+   • Mouse by Arduino,
+   
+Once that is done follow the video guide below.
+
 If using a HOST SHIELD select "Y" when prompted if you don't have one just select "N". HOST SHIELD is "recommended" for games on STEAM, EA, Battlenet etc... since the newest patch 10/15/25 blocks 2nd mouse inputs such as Leonardo R3 alone without a HOST SHIELD, DDxoft, Mouse Events, Razer Drivers, LG Hub Drivers. [If using without HOST SHIELD this will still work on other games that block out most external mouse inputs]
 
 https://github.com/user-attachments/assets/5d933af0-6dc1-425c-90f5-f920b4b94c04
@@ -56,4 +67,16 @@ If still fails run this command: dism /online /add-capability /capabilityname:WM
 
 KNOWN UNSUPPORTED MOUSES:
 --
-Logitech G300s, Logitech Hero 502, Logitech G102
+Logitech G300s,
+Logitech Hero 502,
+Logitech G102,
+
+KNOWN SUPPORTED MOUSES:
+--
+Razer Viper Ultimate WHT,
+Razer Viper Ultimate BLK,
+Razer DeathAdder V2,
+Razer Basilisk V3,
+HyperX SuperLight
+
+
