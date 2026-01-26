@@ -8,6 +8,9 @@ Leonardo R3 Atmega32u4
 USB HOST 2.0
 https://www.aliexpress.us/item/3256808561161776.html?spm=a2g0o.productlist.main.23.f1c92YtB2YtBad&algo_pvid=bf2c68b8-0271-4e89-9cf3-859ae81fb7bf&algo_exp_id=bf2c68b8-0271-4e89-9cf3-859ae81fb7bf-20&pdp_ext_f=%7B%22order%22%3A%2210%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis!USD!6.65!2.65!!!6.65!2.65!%402101c59117638593277557866e588f!12000046500694356!sea!US!0!ABX!1!0!n_tag%3A-29910%3Bd%3A50bda464%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461913&curPageLogUid=worKoeAHEl2U&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008747476528%7C_p_origin_prod%3A
 
+Arduino Clear Case
+https://www.aliexpress.us/item/3256809109180902.html?spm=a2g0o.productlist.main.8.70f54d19sQur5X&aem_p4p_detail=202601261253084353592315381400003629973&algo_pvid=bd596f0c-44c3-4b60-b4a0-d82039644cf0&algo_exp_id=bd596f0c-44c3-4b60-b4a0-d82039644cf0-7&pdp_ext_f=%7B%22order%22%3A%2264%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%212.09%211.94%21%21%2114.44%2113.43%21%402101c44517694607887445271e474c%2112000048649420213%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A656fe0ed%3Bm03_new_user%3A-29895&curPageLogUid=NWTWuexXMUbK&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009295495654%7C_p_origin_prod%3A&search_p4p_id=202601261253084353592315381400003629973_2
+
 
 <img width="359" height="242" alt="Boards Setup" src="https://github.com/user-attachments/assets/e8e3c285-cd22-45d0-9870-069185f7511f" />
 
