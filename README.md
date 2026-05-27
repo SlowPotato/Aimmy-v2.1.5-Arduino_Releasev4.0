@@ -57,7 +57,9 @@ DOWNLOAD:
 ---
 Found here: https://drive.google.com/file/d/1AFlfR-jMat8cHeF-BKt679vFSWuXHfWs/view?usp=sharing
 
-If any reason you cant access my GDrive message me in discord @ MentalEngineer#4729, if you're already on the known discord then just DM me.
+If any reason you cant access my GDrive message me in discord @ MentalEngineer#4729, if you're already on the known discord then just DM me
+or...
+Get the newer version 2.5.0 here: https://discord.com/channels/1172932293288013936/1175878097741037718/1472043814431752213
 
 WIN11 USERs getting "wmic" error
 -
